@@ -1,0 +1,45 @@
+body {
+    background-color: #fff7ed;
+    font-family: cursive;
+    color: #92400e
+;
+}
+.header {
+    background-color: #fde68a;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+}
+
+.menu {
+    background-color: #fed7a0;
+    padding: 15px;
+    text-align: center;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #d97706;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.menu a:hover {
+    color: yellow;
+    background-color: #78350f;
+}
+
+.section {
+    background-color: white;
+    color: 
+}
+    
+ 
+.footer {
+    background-color:#78350f ;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 20px;
+    color: white;
+}
